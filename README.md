@@ -6,8 +6,8 @@ The report delves into the concept and implementation of the Diffie-Hellman algo
 Apart from the theoretical aspects, the report also presents a demonstration of the Diffie-Hellman algorithm, including an interface for operations and the logical processing system of the algorithm.
 
 ## Web deploy
-(https://diffie-hellman-mu.vercel.app/)[https://diffie-hellman-mu.vercel.app/]
+[https://diffie-hellman-mu.vercel.app/](https://diffie-hellman-mu.vercel.app/)
 
 ## Report
-- My report: (here)[https://drive.google.com/file/d/1YskLXzqVQhdx3x3dBbT70IetlELPYJXe/view?usp=sharing]
-- Video demo: (here)[https://drive.google.com/file/d/1_gaQ7e3HFLiW73FNFlXt0Pmjy4RhBoD4/view?usp=sharing]
+- My report: [here](https://drive.google.com/file/d/1YskLXzqVQhdx3x3dBbT70IetlELPYJXe/view?usp=sharing)
+- Video demo: [here](https://drive.google.com/file/d/1_gaQ7e3HFLiW73FNFlXt0Pmjy4RhBoD4/view?usp=sharing)
